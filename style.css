@@ -1,0 +1,30 @@
+.navbar-brand img{
+    width: 30px;
+    height: 30px;
+}
+
+#special-offer-title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #000;
+}
+.container{
+    background-color: #F8F9FA;
+    border-radius: 20px;
+}
+.container h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    /* border: 2px solid #212529;
+    border-radius: 50px; */
+    
+}
+
+.card-daily-offer{
+    width: 800px;
+    height: 800px;
+}
+
